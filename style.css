@@ -1,0 +1,15 @@
+.trafLight {
+   height: 30vh;
+   width: 30vw;
+   border-radius: 50%;
+}
+
+#redLight {
+    background-color: rgb(136, 31, 31);
+}
+#yellowLight {
+    background-color: rgb(199, 199, 25);
+}
+#greenLight {
+    background-color: rgb(24, 100, 24);
+}
